@@ -1,7 +1,7 @@
 ---
 name: backend-best-practices
-description: Build, review, or refactor backend systems using production-grade engineering defaults. Use this skill whenever the user asks for backend APIs, services, controllers, repositories, database access, queues, caching, auth, observability, scaling, idempotency, or "best practices" for server-side systems, even if they do not explicitly ask for architecture help.
-license: CC-BY-4.0
+description: Use when finding architectural bugs in a backend repo
+license: Apache-2.0
 ---
 
 # Backend Best Practices

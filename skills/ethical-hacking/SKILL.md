@@ -1,7 +1,7 @@
 ---
 name: ethical-hacking
-description: Defensive and authorized penetration testing guidance: recon, mapping, traffic analysis, credential auditing, web app scanning, and basic forensics. Use when the user asks for pentesting workflows, vulnerability assessment, recon/scanning, security audits, or learning common tools in an authorized lab. Refuse illegal/unauthorized hacking and avoid instructions that enable wrongdoing.
-license: CC-BY-4.0
+description: Use when user want to handle network
+license: Apache-2.0
 ---
 
 # Agent Skillset: Ethical Hacking & Penetration Testing

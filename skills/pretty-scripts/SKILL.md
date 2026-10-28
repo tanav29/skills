@@ -1,6 +1,6 @@
 ---
 name: pretty-scripts
-description: Create small CLIs and scripts that use Charmbracelet Gum TUI components (choose, input, confirm, spin, style) with solid shell practices and non-interactive fallbacks.
+description: Use when user want to create cli tools
 license: Apache-2.0
 ---
 

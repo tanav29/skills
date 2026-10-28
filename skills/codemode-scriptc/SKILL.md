@@ -1,7 +1,8 @@
 ---
 name: codemode-scriptc
-description: Use a Code Mode workflow backed by ScriptC for multi-step computation, data transformation, API-shaped tasks, and repeatable terminal automation. Trigger whenever the user asks for “code mode”, asks you to write and run TypeScript with scriptc, or a task is substantially easier to solve by generating a short program, executing it, and inspecting its structured output. Do not use it for ordinary one-file edits, simple shell commands, or code that the user only wants written rather than executed.
+description: Use when general tool calls cant do that work
 compatibility: Requires the `scriptc` CLI, Node.js 20+, and a working C/Clang toolchain. The generated program may use the filesystem, subprocesses, or network only when that access is clearly within the user’s request.
+license: Apache-2.0
 ---
 
 # ScriptC Code Mode
