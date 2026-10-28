@@ -1,9 +1,9 @@
-# thetanav/skills
+# skills
 
 ## Installation
 
 ``` bash
 
-npx skills add thetanav/skills
+npx skills add tanav29/skills
 
 ```
